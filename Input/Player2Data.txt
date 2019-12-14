@@ -1,0 +1,81 @@
+﻿Banjo & Kazooie	2
+Bayonetta	3
+Bowser	4
+Bowser Jr.[a]	2
+Captain Falcon	5
+Charizard[b]	4
+Chrom[c]	4
+Cloud	3
+Corrin	3
+Daisy[c]	1
+Dark Pit[c]	3
+Dark Samus[c]	3
+Diddy Kong	1
+Donkey Kong	4
+Dr. Mario	4
+Duck Hunt[d]	2
+Falco	3
+Fox	2
+Ganondorf	5
+Greninja	3
+Hero[e]	3
+Ice Climbers	1
+Ike	3
+Incineroar	3
+Inkling	2
+Isabelle	3
+Ivysaur[b]	4
+Jigglypuff	4
+Joker	2
+Ken[c]	3
+King Dedede	3
+King K. Rool	4
+Kirby	2
+Link	2
+Little Mac	3
+Lucario	3
+Lucas	2
+Lucina[c]	4
+Luigi	3
+Mario	4
+Marth	4
+Mega Man	3
+Meta Knight	2
+Mewtwo	1
+Mii Brawler[f]	1
+Mii Swordfighter[f][d]	1
+Mii Gunner[f]	1
+Mr. Game & Watch	3
+Ness	2
+Olimar[g]	1
+Pac-Man	3
+Palutena	2
+Peach	2
+Pichu	3
+Pikachu	3
+Piranha Plant	2
+Pit	3
+Richter[c]	5
+Ridley	3
+R.O.B.	4
+Robin	3
+Rosalina & Luma	1
+Roy	3
+Ryu	3
+Samus[h]	3
+Sheik[i]	4
+Shulk	1
+Simon	5
+Snake	4
+Sonic	1
+Squirtle[b]	4
+Terry	4
+Toon Link	2
+Villager	3
+Wario	3
+Wii Fit Trainer	4
+Wolf	2
+Yoshi	4
+Young Link	3
+Zelda[i]	2
+Zero Suit Samus[h]	1
